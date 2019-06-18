@@ -13,11 +13,11 @@
   </gazebo>
   <!-- Gazebo-Specific Link Properties -->
 <xacro:if value="$(arg static)">
-  <link name="world"/>
+<!--  <link name="world"/>
   <joint name="fixed" type="fixed">
       <parent link="world"/>
       <child link="base"/>
-  </joint>
+  </joint>-->
 </xacro:if>
 <xacro:if value="$(arg pedestal)">
   <gazebo reference="pedestal">
