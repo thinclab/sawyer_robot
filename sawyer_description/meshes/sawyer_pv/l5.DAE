@@ -28,7 +28,7 @@
             <specular>
               <color sid="specular">0.07156875 0.07156875 0.07156875 1</color>
             </specular>
-            <transparent opaque="A_ONE">
+            <transparent opaque="RGB-Zero">
               <color>1 1 1 1</color>
             </transparent>
             <index_of_refraction>
@@ -54,7 +54,7 @@
             <specular>
               <color sid="specular">0.25 0 0 1</color>
             </specular>
-            <transparent opaque="A_ONE">
+            <transparent opaque="RGB-Zero">
               <color>1 1 1 1</color>
             </transparent>
             <index_of_refraction>
@@ -80,7 +80,7 @@
             <specular>
               <color sid="specular">0.25 0.25 0.25 1</color>
             </specular>
-            <transparent opaque="A_ONE">
+            <transparent opaque="RGB-Zero">
               <color>1 1 1 1</color>
             </transparent>
             <index_of_refraction>
@@ -109,7 +109,7 @@
             <shininess>
               <float sid="shininess">50</float>
             </shininess>
-            <transparent opaque="A_ONE">
+            <transparent opaque="RGB-Zero">
               <color>1 1 1 0</color>
             </transparent>
             <index_of_refraction>
@@ -135,7 +135,7 @@
             <specular>
               <color sid="specular">0.2166667 0.2264705 0.25 1</color>
             </specular>
-            <transparent opaque="A_ONE">
+            <transparent opaque="RGB-Zero">
               <color>1 1 1 1</color>
             </transparent>
             <index_of_refraction>
@@ -161,7 +161,7 @@
             <specular>
               <color sid="specular">0.1254902 0.1254902 0.1254902 1</color>
             </specular>
-            <transparent opaque="A_ONE">
+            <transparent opaque="RGB-Zero">
               <color>1 1 1 1</color>
             </transparent>
             <index_of_refraction>
